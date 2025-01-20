@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/02f7e55b-ae94-4362-8674-a6902b7ffc81)
+
+
 # Progress Pride Flag
 
 Originally created by designer Daniel Quasar, the Progress Pride Flag includes elements from the Philadelphia pride flag and trans pride flags, to the to bring a focus on inclusion and progress within the LGBTQIA+ community.
