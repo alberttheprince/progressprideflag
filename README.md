@@ -10,6 +10,15 @@ Replaces the Russian Flag where it's present in San Andreas.
 
 It can be used as a basis for replacing other flags by renaming the file name of the appropriate flag in GTA 5.
 
+**Variants available:**
+
+* Six Band Rainbow Flag
+* Gilbert Baker Nine-Stripe Flag
+* Intersex Inclusive Progress Pride Flag
+* New Pride Flag
+* Philadelphia Eight-Stripe flag
+* Social Justice Pride
+
 
 # License Info:
 
