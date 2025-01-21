@@ -4,7 +4,7 @@
 
 # Progress Pride Flag
 
-Originally created by designer Daniel Quasar, the Progress Pride Flag includes elements from the Philadelphia pride flag and trans pride flags, to the to bring a focus on inclusion and progress within the LGBTQIA+ community.
+Originally created by designer Daniel Quasar, the Progress Pride Flag includes elements from the Philadelphia pride flag and trans pride flags to bring a focus on inclusion and progress within the LGBTQIA+ community.
 
 Replaces the Russian Flag where it's present in San Andreas. 
 
